@@ -1,0 +1,263 @@
+2019-05-03 17:37:58 WebElementAction.py[line:41] INFO webelement:id->kw  operate fail
+2019-05-03 19:27:35 WebElementAction.py[line:78] INFO 'NoneType' object has no attribute 'get_screenshot_as_file'
+2019-05-03 21:36:59 WebElementAction.py[line:41] INFO webelement:id->kw  operate fail
+2019-05-03 21:36:59 test.py[line:46] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "C:/Users/lujingxia/Desktop/2018/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 41, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 60, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-03 21:37:00 test.py[line:46] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "C:/Users/lujingxia/Desktop/2018/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 41, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 60, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-03 21:48:14 WebElementAction.py[line:41] INFO webelement:id->kw  operate fail
+2019-05-03 21:48:14 test.py[line:49] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "C:/Users/lujingxia/Desktop/2018/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 44, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 60, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-03 21:48:50 WebElementAction.py[line:41] INFO webelement:id->kw  operate fail
+2019-05-03 21:48:50 test.py[line:50] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "C:/Users/lujingxia/Desktop/2018/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 45, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 60, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-03 21:49:26 WebElementAction.py[line:41] INFO webelement:id->kw  operate fail
+2019-05-03 21:49:26 WebElementAction.py[line:41] INFO webelement:id->kw  operate fail
+2019-05-03 21:49:27 test.py[line:51] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "C:/Users/lujingxia/Desktop/2018/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 45, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 60, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-03 21:50:15 WebElementAction.py[line:41] INFO webelement:id->kw  operate fail
+2019-05-03 21:50:15 test.py[line:50] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "C:/Users/lujingxia/Desktop/2018/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 45, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 60, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-03 21:51:21 WebElementAction.py[line:41] INFO webelement:id->kw  operate fail
+2019-05-03 21:51:21 test.py[line:50] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "C:/Users/lujingxia/Desktop/2018/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 45, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 60, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-03 21:54:03 WebElementAction.py[line:41] INFO webelement:id->kw  operate fail
+2019-05-03 21:54:08 test.py[line:50] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "C:/Users/lujingxia/Desktop/2018/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 45, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 66, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-03 22:00:37 WebElementAction.py[line:41] INFO webelement:id->kw  operate fail
+2019-05-03 22:00:42 test.py[line:51] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "C:/Users/lujingxia/Desktop/2018/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 46, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 66, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-03 22:03:04 WebElementAction.py[line:41] INFO webelement:id->kw  operate fail
+2019-05-03 22:03:09 test.py[line:50] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "C:/Users/lujingxia/Desktop/2018/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 45, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 66, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-04 00:01:29 test.py[line:50] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "C:/Users/lujingxia/Desktop/2018/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 45, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 65, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-04 00:04:00 test.py[line:50] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "C:/Users/lujingxia/Desktop/2018/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 45, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 65, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-04 00:04:00 Dir.py[line:26] INFO C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-5-4 already exist!
+2019-05-04 00:09:32 test.py[line:50] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "C:/Users/lujingxia/Desktop/2018/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 45, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 65, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-04 00:09:32 Dir.py[line:26] INFO C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-5-4 already exist!
+2019-05-04 09:21:59 test.py[line:50] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "C:/Users/lujingxia/Desktop/2018/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 45, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 65, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-04 09:21:59 Dir.py[line:26] INFO C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-5-4 already exist!
+2019-05-05 12:27:54 test.py[line:54] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "G:/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 49, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 65, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-05 12:29:32 test.py[line:54] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "G:/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 49, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 65, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-05 12:29:32 Dir.py[line:26] INFO G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-5-5 already exist!
+2019-05-10 08:40:53 test.py[line:53] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "G:/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 48, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 65, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-10 09:30:44 test.py[line:64] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "G:/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 59, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 65, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-10 09:30:44 Dir.py[line:26] INFO G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-5-10 already exist!
+2019-05-10 09:31:33 test.py[line:64] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "G:/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 59, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 65, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-10 09:31:33 Dir.py[line:26] INFO G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-5-10 already exist!
+2019-05-10 09:33:06 test.py[line:64] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "G:/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 59, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 65, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-10 09:33:06 Dir.py[line:26] INFO G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-5-10 already exist!
+2019-05-10 13:14:15 test.py[line:65] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "G:/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 59, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 65, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-10 13:14:15 Dir.py[line:26] INFO G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-5-10 already exist!
+2019-05-10 13:14:37 test.py[line:65] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "G:/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 59, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 65, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-10 13:14:37 Dir.py[line:26] INFO G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-5-10 already exist!
+2019-05-10 13:17:02 test.py[line:65] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "G:/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 59, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 65, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-10 13:17:02 Dir.py[line:26] INFO G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-5-10 already exist!
+2019-05-10 13:18:21 test.py[line:65] INFO assert_word('www.gloryroad.cn')
+断言失败：
+Traceback (most recent call last):
+  File "G:/测试分类/自动化测试/关键字驱动/关键字架构/练习_20190420/e1_keyword_driven/TestScript/test.py", line 59, in <module>
+    res = eval(cmd)
+  File "<string>", line 1, in <module>
+  File "G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\Action\WebElementAction.py", line 65, in assert_word
+    assert word in driver.page_source
+AssertionError
+
+2019-05-10 13:18:21 Dir.py[line:26] INFO G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-5-10 already exist!

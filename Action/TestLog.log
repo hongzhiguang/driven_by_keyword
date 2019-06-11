@@ -1,0 +1,15 @@
+2019-04-29 06:43:20 Log.py[line:14] DEBUG C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capure_pics does not exist!
+2019-04-29 06:49:42 Log.py[line:14] DEBUG C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-4-29 already exist!
+2019-04-29 06:50:12 Log.py[line:14] DEBUG C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-4-29 already exist!
+2019-04-29 06:53:45 Log.py[line:14] DEBUG C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-4-29 already exist!
+2019-04-29 06:57:06 Log.py[line:14] DEBUG C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-4-29 already exist!
+2019-04-29 06:58:48 Log.py[line:14] DEBUG C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-4-29 already exist!
+2019-04-29 06:59:56 Log.py[line:14] DEBUG C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-4-29 already exist!
+2019-04-29 07:02:54 Log.py[line:14] DEBUG C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-4-29 already exist!
+2019-04-29 09:00:54 Log.py[line:14] INFO G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-4-29 already exist!
+2019-04-29 09:26:59 Log.py[line:14] INFO G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-4-29 already exist!
+2019-04-29 09:27:43 Dir.py[line:26] INFO G:\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-4-29 already exist!
+2019-05-03 19:34:52 Dir.py[line:26] INFO C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-5-3 already exist!
+2019-05-03 19:35:52 Dir.py[line:26] INFO C:\Users\lujingxia\Desktop\2018\测试分类\自动化测试\关键字驱动\关键字架构\练习_20190420\e1_keyword_driven\capture_pics\2019-5-3 already exist!
+2019-05-03 22:06:20 WebElementAction.py[line:44] INFO webelement:id->kw  operate fail
+2019-05-03 22:06:49 WebElementAction.py[line:44] INFO webelement:id->kw  operate fail
